@@ -5,7 +5,7 @@ When you enter GitHub flavored markdown into the editor section, you can see tex
 
 ## Live preview
 
-[Link to github.io preview page - coming soon]()
+[Link to github.io preview page](https://tomaszrybacki.github.io/Markdown-Previewer/)
 
 ## Free Code Camp challenge
 
